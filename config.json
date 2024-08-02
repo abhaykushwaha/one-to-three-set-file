@@ -2,7 +2,7 @@
   "MovementThreshold": 0.01,
   "TimeThreshold": 10,
   "MagicNumber": 4444435,
-  "Maxposition": 1,
+  "Maxposition": 12,
   "Sleepsecond": 5,
   "StopLossPercent": 0.85,
   "RR": 4.2,
