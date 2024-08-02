@@ -1,7 +1,7 @@
 {
   "MovementThreshold": 0.01,
   "TimeThreshold": 10,
-  "MagicNumber": 1515,
+  "MagicNumber": 4444435,
   "Maxposition": 1,
   "Sleepsecond": 5,
   "StopLossPercent": 0.85,
