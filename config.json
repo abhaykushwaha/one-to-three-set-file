@@ -6,6 +6,6 @@
   "Sleepsecond": 5,
   "StopLossPercent": 0.85,
   "RR": 4.2,
-  "TrailSl": false,
+  "TrailSl": true,
   "increaselotafter": 3,
 }
