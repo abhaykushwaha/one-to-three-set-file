@@ -4,7 +4,6 @@
   "MagicNumber": 1551,
   "Maxposition": 1,
   "Sleepsecond": 5,
-  "Maxvol": 99,
   "StopLossPercent": 0.85,
   "RR": 4.2,
   "TrailSl": false,
