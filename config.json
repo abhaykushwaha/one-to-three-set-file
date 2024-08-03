@@ -1,11 +1,11 @@
 {
   "MovementThreshold": 0.01,
   "TimeThreshold": 10,
-  "MagicNumber": 444445,
-  "Maxposition": 3,
+  "MagicNumber": 1551,
+  "Maxposition": 1,
   "Sleepsecond": 5,
   "StopLossPercent": 0.85,
   "RR": 4.2,
-  "TrailSl": true,
+  "TrailSl": false,
   "increaselotafter": 3,
 }
