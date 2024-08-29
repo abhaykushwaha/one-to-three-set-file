@@ -4,8 +4,8 @@
   "MagicNumber": 1551,
   "Maxposition": 1,
   "Sleepsecond": 5,
-  "StopLossPercent": 0.85,
-  "RR": 4.2,
+  "StopLossPercent": 1.35,
+  "RR": 4.4,
   "TrailSl": false,
-  "increaselotafter": 3,
+  "increaselotafter": 2,
 }
